@@ -1,0 +1,6 @@
+{
+  "name": "Homsi Clinic | Dermatology & Aesthetic Clinic W5 London",
+  "description": "Dr. Abdulaziz Homsi provides professional laser, aesthetic and skin treatments at our W5 London clinic (56 The Mall, London W5 3TA).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
